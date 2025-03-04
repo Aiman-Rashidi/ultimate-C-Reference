@@ -1,0 +1,2 @@
+aiman, 200
+harry, 300
